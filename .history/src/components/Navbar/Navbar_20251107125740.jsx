@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className="font-inter px-[10px] md:px-[20px] lg:px-[80px] py-[5px] md:py-[15px]  flex items-center justify-between">
       <p className="text-[16px] md:text-[20px] lg:text-[24px] font-[700] text-[#130B2D]">
-        CS - TICKET System
+        CS - TiCKET System
       </p>
 
       <div className="flex items-center gap-[32px]">
