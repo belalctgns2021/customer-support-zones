@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Account Access Denied",
+    "description": "User cannot access account despite correct login details",
+    "customer": "John Doe",
+    "priority": "Medium Priority",
+    "status": "Resolved",
+    "createdAt": "2025-10-14"
+  },
+  {
+    "id": 2,
+    "title": "Transaction Error",
+    "description": "Issues with payments through MasterCard",
+    "customer": "Sarah Lee",
+    "priority": "Low Priority",
+    "status": "Closed",
+    "createdAt": "2025-10-13"
+  },
+  {
+    "id": 3,
+    "title": "Dashboard Lag",
+    "description": "Dashboard lags for several minutes when loading data",
+    "customer": "Jack Harris",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2025-10-12"
+  },
+  {
+    "id": 4,
+    "title": "Email Service Outage",
+    "description": "Delayed or undelivered emails for certain users",
+    "customer": "Patricia Walker",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "2025-10-11"
+  },
+  {
+    "id": 5,
+    "title": "Profile Update Not Saving",
+    "description": "Changes to user profile not being saved",
+    "customer": "William Black",
+    "priority": "Low Priority",
+    "status": "Resolved",
+    "createdAt": "2025-10-10"
+  },
+  {
+    "id": 6,
+    "title": "Internal Server Error 503",
+    "description": "Unable to generate reports due to server errors",
+    "customer": "Eva Green",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2025-10-09"
+  },
+  {
+    "id": 7,
+    "title": "Password Reset Link Not Sent",
+    "description": "User is not receiving password reset emails",
+    "customer": "Nathan Cole",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "2025-10-08"
+  },
+  {
+    "id": 8,
+    "title": "Search Function Slow",
+    "description": "Search results take too long to appear",
+    "customer": "Diana Gray",
+    "priority": "Medium Priority",
+    "status": "In Progress",
+    "createdAt": "2025-10-07"
+  },
+  {
+    "id": 9,
+    "title": "Invoice Error",
+    "description": "Incorrect invoice totals when applying discounts",
+    "customer": "Lucas Smith",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "2025-10-06"
+  },
+  {
+    "id": 10,
+    "title": "App Crashes on iOS",
+    "description": "App crashes when accessing user settings on iPhone",
+    "customer": "Sophia Clarke",
+    "priority": "Low Priority",
+    "status": "In Progress",
+    "createdAt": "2025-10-05"
+  },
+  {
+    "id": 11,
+    "title": "Push Notification Glitch",
+    "description": "Push notifications are not making sound",
+    "customer": "Aiden Martin",
+    "priority": "Medium Priority",
+    "status": "Closed",
+    "createdAt": "2025-10-04"
+  },
+  {
+    "id": 12,
+    "title": "File Upload Error",
+    "description": "Unable to upload large PDF files over 50MB",
+    "customer": "Emily White",
+    "priority": "High Priority",
+    "status": "Resolved",
+    "createdAt": "2025-10-03"
+  },
+  {
+    "id": 13,
+    "title": "Mobile View Layout Issue",
+    "description": "Page layout breaks on small mobile screens",
+    "customer": "Daniel Brown",
+    "priority": "Medium Priority",
+    "status": "In Progress",
+    "createdAt": "2025-10-02"
+  },
+  {
+    "id": 14,
+    "title": "Language Setting Error",
+    "description": "The app is displaying text in French instead of English",
+    "customer": "Isabella Moore",
+    "priority": "Low Priority",
+    "status": "Open",
+    "createdAt": "2025-10-01"
+  },
+  {
+    "id": 15,
+    "title": "2FA Verification Failure",
+    "description": "Users are not receiving 2FA codes for login",
+    "customer": "Jackson Davis",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-30"
+  }
+]
