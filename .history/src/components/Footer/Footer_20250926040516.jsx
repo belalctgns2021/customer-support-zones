@@ -13,11 +13,10 @@ const Footer = () => {
               CS - Ticket System
             </h1>
             <p className="text-[10px] md:text-[14px] lg:text-[16px] leading-relaxed">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-            minima deleniti praesentium deserunt magni excepturi iusto id
-            repellat rerum ad soluta consequatur cupiditate, laudantium,
-            similique fugit itaque ex, expedita consectetur pariatur unde iure
-            possimus beatae. Accusamus modi temporibus fugit voluptate?
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer took a galley of
+              type and scrambled it to make a type specimen book.
             </p>
           </div>
 
@@ -107,7 +106,7 @@ const Footer = () => {
 
       {/* Bottom Section */}
       <div className="text-[10px] md:text-[14px] lg:text-[16px] text-center">
-        <p>© 2025-26 CS - Ticket System.</p>
+        <p>© 2025 CS - Ticket System. All rights reserved.</p>
       </div>
     </div>
   );

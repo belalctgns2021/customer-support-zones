@@ -107,7 +107,7 @@ const Footer = () => {
 
       {/* Bottom Section */}
       <div className="text-[10px] md:text-[14px] lg:text-[16px] text-center">
-        <p>© 2025-26 CS - Ticket System.</p>
+        <p>© 2025-26 CS - Ticket System. All rights reserved.</p>
       </div>
     </div>
   );
